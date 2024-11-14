@@ -1,0 +1,24 @@
+body{
+    font-family: "Poppins", serif;
+}
+.justify img{
+    width: 100px; /* Set width */
+    height: 400px; /* Set height */
+}
+.buy-now-button{
+    color:white;
+    background-color: black;
+    padding: 5px 12px 5px 12px ; 
+    border-radius: 10px;
+    font-size: 15px;  
+    cursor: pointer;
+    border : 1px solid white;
+}
+.container{
+    margin-bottom: 100px;
+}
+.card{
+    text-align: center;
+    margin: 20px 0; /* Space outside the element */
+    padding: 5px;   /* Space within the element */
+}
