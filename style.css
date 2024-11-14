@@ -2,8 +2,8 @@ body{
     font-family: "Poppins", serif;
 }
 .justify img{
-    width: 100px; /* Set width */
-    height: 400px; /* Set height */
+    width: 100px; 
+    height: 400px; 
 }
 .buy-now-button{
     color:white;
@@ -15,10 +15,41 @@ body{
     border : 1px solid white;
 }
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+.card-title {
+    margin-bottom: 15px;
+}
+
+.card-body{
+    padding-bottom: 100px;
+    text-align: center;
 }
 .card{
-    text-align: center;
-    margin: 20px 0; /* Space outside the element */
-    padding: 5px;   /* Space within the element */
+    box-shadow: 5px 4px 10px gray;
+}
+.card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+    padding: 40px 0px;
+}
+.card-title {
+    margin-bottom: 20px; /* Adds space below the h5 element */
+}
+
+.card-text {
+    margin-bottom: 15px; /* Adds space below the small text element */
+}
+.card-price{
+    margin-top: 25px;
+}
+
+.buy-now-button {
+    margin-top: 15px; /* Adds space above the button */
+    padding: 10px 20px; /* Optional: Adjust padding for a larger button */
+}
+.space{
+    margin-bottom: 25px;
 }
