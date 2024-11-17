@@ -53,7 +53,7 @@ body{
 .space{
     margin-bottom: 25px;
 }
-.categroies{
+.categories{
     text-align: center;
 }
 .underline{
@@ -64,6 +64,6 @@ body{
     margin-left: 585px 
 }
 .pic{
-    width: 18rem;
+    width: 15rem;
     background-color: yellow;
 }
